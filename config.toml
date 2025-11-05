@@ -1,0 +1,14 @@
+# .streamlit/config.toml
+
+[theme]
+# A professional dark-mode theme
+primaryColor="#4A90E2"
+backgroundColor="#0E1117"
+secondaryBackgroundColor="#262730"
+textColor="#FAFAFA"
+font="sans serif"
+
+[browser]
+# Hides the "Deploy" button and GitHub fork
+gatherUsageStats = false
+toolbarMode = "minimal"
